@@ -1,0 +1,37 @@
+Components List
+
+1. ESP8266 NodeMCU V3
+   Quantity : 1
+   Description : Main Microcontroller
+
+2. MPU6050
+   Quantity : 1
+   Description : 6-Axis Accelerometer & Gyroscope
+
+3. SSD1306 OLED Display
+   Quantity : 1
+   Description : 128×64 I2C OLED Display
+
+4. 18650 Li-ion Battery
+   Quantity : 1
+   Description : 3.7V Rechargeable Battery
+
+5. TP4056 Charging Module
+   Quantity : 1
+   Description : USB Type-C Charging Module
+
+6. Slide Switch
+   Quantity : 1
+   Description : ON/OFF Power Switch
+
+7. 10kΩ Resistor
+   Quantity : 1
+
+8. 22kΩ Resistor
+   Quantity : 1
+
+9. Connecting Wires
+    Quantity : As Required
+
+10. 3D Printed Case
+    Quantity : 1
