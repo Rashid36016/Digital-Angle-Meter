@@ -47,7 +47,7 @@ A portable digital angle meter built using the **ESP8266 NodeMCU V3**, **MPU6050
 | Battery (+ve) | VIN         |
 | Battery (-ve) | GND         |
 | 22kΩ Resistor | VIN to A0   |
-| 10kΩ Resistor | A0 to GND   |
+| 10kΩ Resistor | GND to A0   |
 
 ---
 
